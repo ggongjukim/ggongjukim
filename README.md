@@ -1,6 +1,6 @@
 <!-- ![ggongjukim](https://capsule-render.vercel.app/api?type=waving&height=250&text=ggongjukim&fontAlign=50&fontAlignY=40&&color=0:9C9CEC,100:ECB6C7&fontColor=FFFFFF) -->
 
-<p align="center"><b>Front-End</b></p>
+## Front-End
 
 
 ## My tech stack :books:
