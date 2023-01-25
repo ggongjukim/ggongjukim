@@ -22,6 +22,7 @@
 ## MY project
 > ✔️ 한국문화재재단 WebXR 문화콘텐츠 [🔗](https://realistic.k-heritage.tv/index.do)  
 > ✔️ 한국전파진흥협회 메타버스랩 지원사업::스마트거울 헬스케어 서비스 [🔗](https://drive.google.com/file/d/1JBzE14jFBk6KVB96vbJ20xnK4-pBnRDt/view)[🔗](https://www.youtube.com/watch?v=Zwbexbw0abc&t=9s)
+> ✔️ 엘리스 SW 엔지니어 트랙 3기 수료
 
 ## contact 📫
 > <a href="https://ggongjukim.github.io/)">![Blog](https://img.shields.io/badge/Tech_Blog-11B48A?style=for-the-badge)
