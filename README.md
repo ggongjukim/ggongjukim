@@ -2,6 +2,7 @@
 
 ## Front-End, Client
 
+## [이력서/포트폴리오🔗](https://shine-beginner-8db.notion.site/KIM-CHAE-HYUN-99dff2eaaa4a4e319cb952e7e6895ce3)
 
 ## My tech stack :books:
 
@@ -28,8 +29,6 @@
 ✔️ 엘리스 SW 엔지니어 트랙 3기 수료       
 > 🥇 엘리스 SW 엔지니어 트랙 3기 1차 프로젝트 대상(1등)             
 > 🥉 엘리스 SW 엔지니어 트랙 3기 2차 프로젝트 우수상(3등)
-
-## [이력서/포트폴리오🔗](https://shine-beginner-8db.notion.site/KIM-CHAE-HYUN-99dff2eaaa4a4e319cb952e7e6895ce3)
 
 ## contact 📫
 > <a href="https://ggongjukim.github.io/)">![Blog](https://img.shields.io/badge/Tech_Blog-11B48A?style=for-the-badge)
