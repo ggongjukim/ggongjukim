@@ -1,8 +1,10 @@
 <!-- ![ggongjukim](https://capsule-render.vercel.app/api?type=waving&height=250&text=ggongjukim&fontAlign=50&fontAlignY=40&&color=0:9C9CEC,100:ECB6C7&fontColor=FFFFFF) -->
 
 ## Front-End, Client
+[이력서/포트폴리오🔗](https://shine-beginner-8db.notion.site/KIM-CHAE-HYUN-99dff2eaaa4a4e319cb952e7e6895ce3)
 
-## [이력서/포트폴리오🔗](https://shine-beginner-8db.notion.site/KIM-CHAE-HYUN-99dff2eaaa4a4e319cb952e7e6895ce3)
+<br>
+
 
 ## My tech stack :books:
 
@@ -19,8 +21,7 @@
 >![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
 >
 
-## I’m currently learning :memo:
-
+<br>
 
 ## MY project
 > ✔️ 한국문화재재단 WebXR 문화콘텐츠 [🔗](https://realistic.k-heritage.tv/index.do)  
@@ -29,6 +30,13 @@
 ✔️ 엘리스 SW 엔지니어 트랙 3기 수료       
 > 🥇 엘리스 SW 엔지니어 트랙 3기 1차 프로젝트 대상(1등)             
 > 🥉 엘리스 SW 엔지니어 트랙 3기 2차 프로젝트 우수상(3등)
+
+<br>
+
+## Baekjoon solved rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ggongjukim)](https://solved.ac/ggongjukim)
+
+<br>
 
 ## contact 📫
 > <a href="https://ggongjukim.github.io/)">![Blog](https://img.shields.io/badge/Tech_Blog-11B48A?style=for-the-badge)
