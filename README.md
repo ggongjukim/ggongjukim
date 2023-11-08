@@ -39,6 +39,6 @@
 <br>
 
 ## contact 📫
-> <a href="https://ggongjukim.github.io/)">![Blog](https://img.shields.io/badge/Tech_Blog-11B48A?style=for-the-badge)
+> <a href="https://ggongjukim.github.io/)">![Blog](https://velog.io/@ggongjukim)
 > <a href="https://www.instagram.com/ggongjukim/?hl=ko">![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)
 > <a href="mailto:kch7892003@naver.com">![Mail](https://img.shields.io/badge/Mail-06B6D4?style=for-the-badge&)
